@@ -14,4 +14,4 @@ So, to handle this type of formatting, we will need something powerfull like pyt
 <img width="1920" height="707" alt="image" src="https://github.com/user-attachments/assets/d3736372-56f0-4522-aefb-5c4667b13706" />
 <br>
 
-You can find a detailed step by step explaination in the Scripts Folder.
+You can find a detailed step by step explaination in the Code Folder.
